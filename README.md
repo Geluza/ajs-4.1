@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/p49wrkom9sk2leu0?svg=true)](https://ci.appveyor.com/project/Geluza/ajs-4-1)
